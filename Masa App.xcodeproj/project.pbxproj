@@ -7,18 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7309EF492BD7C2CA00C6A004 /* DateDiff.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7309EF482BD7C2CA00C6A004 /* DateDiff.swift */; };
+		7309EF4B2BD7C48400C6A004 /* SubjectInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7309EF4A2BD7C48400C6A004 /* SubjectInfoView.swift */; };
+		7309EF502BD7C81F00C6A004 /* SubjectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7309EF4F2BD7C81F00C6A004 /* SubjectsView.swift */; };
+		7309EF542BD7DD7900C6A004 /* MeetingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7309EF532BD7DD7900C6A004 /* MeetingsView.swift */; };
+		7309EF562BD7DD9400C6A004 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7309EF552BD7DD9400C6A004 /* ProfileView.swift */; };
+		7309EF5A2BD7EB6100C6A004 /* MeetingInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7309EF592BD7EB6100C6A004 /* MeetingInfoView.swift */; };
+		73694D452BD64102003DE85B /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73694D442BD64102003DE85B /* HomeView.swift */; };
+		73694D492BD6514E003DE85B /* ProfileData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73694D482BD6514E003DE85B /* ProfileData.swift */; };
 		739D5B002BD3F210007C4B78 /* Masa_AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739D5AFF2BD3F210007C4B78 /* Masa_AppApp.swift */; };
 		739D5B022BD3F210007C4B78 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739D5B012BD3F210007C4B78 /* ContentView.swift */; };
 		739D5B042BD3F211007C4B78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 739D5B032BD3F211007C4B78 /* Assets.xcassets */; };
 		739D5B072BD3F211007C4B78 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 739D5B062BD3F211007C4B78 /* Preview Assets.xcassets */; };
+		739D5B102BD3F910007C4B78 /* CustomTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739D5B0F2BD3F910007C4B78 /* CustomTabView.swift */; };
+		73B2FBC02BD8F75A00694101 /* HelperSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B2FBBF2BD8F75A00694101 /* HelperSearchView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7309EF482BD7C2CA00C6A004 /* DateDiff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateDiff.swift; sourceTree = "<group>"; };
+		7309EF4A2BD7C48400C6A004 /* SubjectInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubjectInfoView.swift; sourceTree = "<group>"; };
+		7309EF4F2BD7C81F00C6A004 /* SubjectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubjectsView.swift; sourceTree = "<group>"; };
+		7309EF532BD7DD7900C6A004 /* MeetingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingsView.swift; sourceTree = "<group>"; };
+		7309EF552BD7DD9400C6A004 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		7309EF592BD7EB6100C6A004 /* MeetingInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingInfoView.swift; sourceTree = "<group>"; };
+		73694D442BD64102003DE85B /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		73694D482BD6514E003DE85B /* ProfileData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileData.swift; sourceTree = "<group>"; };
 		739D5AFC2BD3F210007C4B78 /* Masa App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Masa App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		739D5AFF2BD3F210007C4B78 /* Masa_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Masa_AppApp.swift; sourceTree = "<group>"; };
 		739D5B012BD3F210007C4B78 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		739D5B032BD3F211007C4B78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		739D5B062BD3F211007C4B78 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		739D5B0F2BD3F910007C4B78 /* CustomTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabView.swift; sourceTree = "<group>"; };
+		73B2FBBF2BD8F75A00694101 /* HelperSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelperSearchView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +52,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7309EF4C2BD7C7C500C6A004 /* Subviews */ = {
+			isa = PBXGroup;
+			children = (
+				7309EF4A2BD7C48400C6A004 /* SubjectInfoView.swift */,
+				7309EF592BD7EB6100C6A004 /* MeetingInfoView.swift */,
+			);
+			path = Subviews;
+			sourceTree = "<group>";
+		};
+		7309EF4D2BD7C7CE00C6A004 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				73694D482BD6514E003DE85B /* ProfileData.swift */,
+				7309EF482BD7C2CA00C6A004 /* DateDiff.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		7309EF4E2BD7C7DE00C6A004 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				739D5B012BD3F210007C4B78 /* ContentView.swift */,
+				739D5B0F2BD3F910007C4B78 /* CustomTabView.swift */,
+				73694D442BD64102003DE85B /* HomeView.swift */,
+				7309EF532BD7DD7900C6A004 /* MeetingsView.swift */,
+				7309EF4F2BD7C81F00C6A004 /* SubjectsView.swift */,
+				7309EF552BD7DD9400C6A004 /* ProfileView.swift */,
+				73B2FBBF2BD8F75A00694101 /* HelperSearchView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		739D5AF32BD3F210007C4B78 = {
 			isa = PBXGroup;
 			children = (
@@ -52,7 +104,9 @@
 			isa = PBXGroup;
 			children = (
 				739D5AFF2BD3F210007C4B78 /* Masa_AppApp.swift */,
-				739D5B012BD3F210007C4B78 /* ContentView.swift */,
+				7309EF4E2BD7C7DE00C6A004 /* Views */,
+				7309EF4C2BD7C7C500C6A004 /* Subviews */,
+				7309EF4D2BD7C7CE00C6A004 /* Data */,
 				739D5B032BD3F211007C4B78 /* Assets.xcassets */,
 				739D5B052BD3F211007C4B78 /* Preview Content */,
 			);
@@ -137,8 +191,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7309EF4B2BD7C48400C6A004 /* SubjectInfoView.swift in Sources */,
+				7309EF502BD7C81F00C6A004 /* SubjectsView.swift in Sources */,
+				73B2FBC02BD8F75A00694101 /* HelperSearchView.swift in Sources */,
+				7309EF542BD7DD7900C6A004 /* MeetingsView.swift in Sources */,
+				7309EF492BD7C2CA00C6A004 /* DateDiff.swift in Sources */,
+				7309EF562BD7DD9400C6A004 /* ProfileView.swift in Sources */,
 				739D5B022BD3F210007C4B78 /* ContentView.swift in Sources */,
+				73694D452BD64102003DE85B /* HomeView.swift in Sources */,
+				7309EF5A2BD7EB6100C6A004 /* MeetingInfoView.swift in Sources */,
 				739D5B002BD3F210007C4B78 /* Masa_AppApp.swift in Sources */,
+				73694D492BD6514E003DE85B /* ProfileData.swift in Sources */,
+				739D5B102BD3F910007C4B78 /* CustomTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
